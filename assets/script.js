@@ -128,3 +128,4 @@ $(".city-list-box").on("click", ".city-name", function () {
 
     getListCity(coordinates);
 })
+
